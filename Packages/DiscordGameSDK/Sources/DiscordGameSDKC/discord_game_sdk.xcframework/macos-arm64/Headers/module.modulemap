@@ -1,0 +1,4 @@
+module discord_game_sdk {
+  header "discord_game_sdk.h"
+  export *
+}

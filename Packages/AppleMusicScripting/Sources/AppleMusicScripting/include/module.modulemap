@@ -1,0 +1,4 @@
+module "AppleMusicScripting" {
+    header "AppleMusicScripting.h"
+    export *
+}
